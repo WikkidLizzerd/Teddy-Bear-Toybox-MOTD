@@ -2,4 +2,8 @@ Cosmetic Update and MORE!
 1.) Added Trampoline in Forest Map!
 2.) Added MOTD Board!
 3.) Added new cosmetics!
-4.) More coming soon!
+4.) Added Time Display!
+5.) Mod Vent open/Close Buttons
+6.) Sand Map Removed!
+7.) Added Bouncy Map!
+8.) More coming soon!
