@@ -1,12 +1,4 @@
-Cosmetic Update and MORE!
-1.) Added Trampoline in Forest Map!
-2.) Added MOTD Board!
-3.) Added new cosmetics!
-4.) Added Time Display!
-5.) Mod Vent Open/Close Buttons
-6.) Sand Map Removed!
-7.) More coming soon!
-8.) Added 3rd person!
-9.) Added Tip Jar!
-10.) Added Coins!
-11.) Added Shop Employee
+UPDATE!!!
+1.) Added shop employee!
+2.) Added secret key!
+3.) Added bouncy map!
