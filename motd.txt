@@ -2,3 +2,5 @@ UPDATE!!!
 1.) Added shop employee!
 2.) Added secret key!
 3.) Added bouncy map!
+4.) Added TV!
+5.) Added 3rd person!
